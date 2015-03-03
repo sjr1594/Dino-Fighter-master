@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 4c0092313ef3913479a6f2461f526502
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Rex_Body_JT
+    100002: Rex_Head_JT
+    100004: Rex_JawLow_JT
+    100006: Rex_JawLowEnd_JT
+    100008: Rex_JawUp_JT
+    100010: Rex_JawUpEnd_JT
+    100012: Rex_L_LToebase_JT
+    100014: Rex_L_LToebase_JT1
+    100016: Rex_L_LToeEnd_JT
+    100018: Rex_L_LToeEnd_JT1
+    100020: Rex_L_LToeMid_JT
+    100022: Rex_L_LToeMid_JT1
+    100024: Rex_L_RToebase_JT
+    100026: Rex_L_RToebase_JT1
+    100028: Rex_L_RToeEnd_JT
+    100030: Rex_L_RToeEnd_JT1
+    100032: Rex_L_RToeMid_JT
+    100034: Rex_L_RToeMid_JT1
+    100036: Rex_LArm_JT
+    100038: Rex_LElbow_JT
+    100040: Rex_LFingEnd_JT
+    100042: Rex_LFingMid_JT
+    100044: Rex_LFoot_JT
+    100046: Rex_LFoot_JT1
+    100048: Rex_LKnee_JT
+    100050: Rex_LKnee_JT1
+    100052: Rex_LLeg_JT
+    100054: Rex_LLeg_JT1
+    100056: Rex_LThumbBase_JT
+    100058: Rex_LThumbEnd_JT
+    100060: Rex_LWrist_JT
+    100062: Rex_Mesh
+    100064: //RootNode
+    100066: Rex_RArm_JT
+    100068: Rex_RElbow_JT
+    100070: Rex_RFingEnd_JT
+    100072: Rex_RFingMid_JT
+    100074: Rex_RThumbBase_JT
+    100076: Rex_RThumbEnd_JT
+    100078: Rex_RWrist_JT
+    100080: Rex_TailBase_JT
+    100082: Rex_TailEnd_JT
+    100084: Rex_TailMid_JT
+    400000: Rex_Body_JT
+    400002: Rex_Head_JT
+    400004: Rex_JawLow_JT
+    400006: Rex_JawLowEnd_JT
+    400008: Rex_JawUp_JT
+    400010: Rex_JawUpEnd_JT
+    400012: Rex_L_LToebase_JT
+    400014: Rex_L_LToebase_JT1
+    400016: Rex_L_LToeEnd_JT
+    400018: Rex_L_LToeEnd_JT1
+    400020: Rex_L_LToeMid_JT
+    400022: Rex_L_LToeMid_JT1
+    400024: Rex_L_RToebase_JT
+    400026: Rex_L_RToebase_JT1
+    400028: Rex_L_RToeEnd_JT
+    400030: Rex_L_RToeEnd_JT1
+    400032: Rex_L_RToeMid_JT
+    400034: Rex_L_RToeMid_JT1
+    400036: Rex_LArm_JT
+    400038: Rex_LElbow_JT
+    400040: Rex_LFingEnd_JT
+    400042: Rex_LFingMid_JT
+    400044: Rex_LFoot_JT
+    400046: Rex_LFoot_JT1
+    400048: Rex_LKnee_JT
+    400050: Rex_LKnee_JT1
+    400052: Rex_LLeg_JT
+    400054: Rex_LLeg_JT1
+    400056: Rex_LThumbBase_JT
+    400058: Rex_LThumbEnd_JT
+    400060: Rex_LWrist_JT
+    400062: Rex_Mesh
+    400064: //RootNode
+    400066: Rex_RArm_JT
+    400068: Rex_RElbow_JT
+    400070: Rex_RFingEnd_JT
+    400072: Rex_RFingMid_JT
+    400074: Rex_RThumbBase_JT
+    400076: Rex_RThumbEnd_JT
+    400078: Rex_RWrist_JT
+    400080: Rex_TailBase_JT
+    400082: Rex_TailEnd_JT
+    400084: Rex_TailMid_JT
+    4300000: Rex_Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rex_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
